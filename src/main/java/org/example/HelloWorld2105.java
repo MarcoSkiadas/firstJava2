@@ -26,6 +26,7 @@ class HelloWorld2105 {
         boolean equality =  c== d;
 
         System.out.println(greaterThan + " " + lessThan + " " + equality);
+        System.out.println("Wooohooo, i was also here");
 
     }
 }
